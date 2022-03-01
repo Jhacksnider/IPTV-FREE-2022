@@ -12,3 +12,5 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a574
 #EXTINF:-1 tvg-logo="https://imgur.com/1YCOERV" group-title="Telecine",action
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Vq0jLfq" group-title="Pluto Tv",Filmes de ação
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
