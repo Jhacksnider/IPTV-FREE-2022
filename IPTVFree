@@ -24,5 +24,5 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 #EXTINF:-1 tvg-logo="" group-title="Anime Tv",Animes
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tv",globo
-http://204.188.200.246:1114/live/pt_bz2lc7s8PV3avHAgjnFxpM0w_480p.ts
+#EXTINF:-1 tvg-logo="" group-title="ABERTOS",GLOBO MG SD
+https://bit.ly/3JkEksl
