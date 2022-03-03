@@ -26,3 +26,9 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ABERTOS",GLOBO MG SD
 https://bit.ly/3JkEksl
+
+#EXTINF:-1 tvg-logo="" group-title="Documentários",Discovery Channel
+https://bit.ly/3Inb58p
+
+#EXTINF:-1 tvg-logo="" group-title="infantil",Disney Channel Hd
+https://bit.ly/3pkOGB1
